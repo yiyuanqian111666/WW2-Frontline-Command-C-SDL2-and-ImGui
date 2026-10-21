@@ -10,7 +10,7 @@
 ### 🎮 游戏下载与运行说明
 1. 下载下方 Assets 区域的 `WW2-Frontline-Command-Windows-x64.zip`。
 2. 解压到本地任意文件夹。
-3. 双击运行 `WW2-Frontline-Command.exe` 即可直接进入游戏。
+3. 双击运行 `game.exe` 即可直接进入游戏。
 
 ---
 
